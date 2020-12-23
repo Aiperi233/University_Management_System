@@ -7,6 +7,7 @@ Team members: Aidana Zhamangulova, Aiperi Osmonaalieva
 #### Presentation ✔
 #### DataStorage SQLite ✔
 #### Tutorial ✔ 
+University Management System.docx
 #### University Logo, Text ✔
 ### Description
 It's University Management System. U can login as Admin and Student. If you are admin you can add new students insert, delete, change table of students
