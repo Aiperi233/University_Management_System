@@ -1,6 +1,6 @@
 # University_Management_System
 ## OOP Final Project
-Team members: Aidana Zhamangulova, Aiperi Osmonaalieva
+Team members: Aidana Zhamangulova, Aiperi Osmonaalieva com-18
 ### SQLite Database Management System
 #### GitHub ✔
 #### Code ✔
