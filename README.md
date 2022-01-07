@@ -1,12 +1,8 @@
 # University_Management_System
-## OOP Final Project
-Team members: Aidana Zhamangulova, Aiperi Osmonaalieva com-18
+## Softwae architecture Final Project
+ Aiperi Osmonaalieva com-18
 ### SQLite Database Management System
-#### GitHub ✔
-#### Code ✔
-#### Presentation ✔
-#### DataStorage SQLite ✔
-#### Tutorial ✔ 
+#### DataStorage SQLite 
 University Management System.docx
 #### University Logo, Text ✔
 ### Description
